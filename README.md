@@ -98,3 +98,27 @@ Using OO
           round 2, players: J1 and J3, advances: J1, eliminated: J3
           round 2, players: J5 and J8, advances: J8, eliminated: J5
           round 3 (final), players: J1 and J8, champion: J8, finalist: J1
+          
+## ONCE YOU ARE DONE, TAKE THIS HOMEWORK
+
+1. Using a Scanner...
+    - read a string from the standard input, and print it on the standard output
+    - read two numbers from stdin, and print their sum
+    - read a line and print how many characters it contains (including whitespaces)
+    - read a line and print how many words it contains
+        - note: the words may be separated by more than one space
+    - read a number (n) and print...
+        A. the nth Fibonacci number
+        B. the nth row of Pascal's triangle on one line
+
+2.  Using a PrintWriter...
+    - copy the contents of a file into another file line by line
+    - like a., but the lines should be in reverse order (hint: use a Stack)
+
+3.  A file contains filenames. These files contain integer numbers.
+    - Print the name of the file that contains the smallest number.
+    - Print the name of only those files that do not contain duplicate numbers.
+       (hint: use a Set)
+    - Calculate the sum of numbers for all of the files.
+       Print the filenames with their sums in increasing order.
+       (hint: use a Map)
